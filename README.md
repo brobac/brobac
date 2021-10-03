@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=issg2030)](https://solved.ac/issg2030/)
+\\<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=issg2030)](https://solved.ac/issg2030/) -->
 
